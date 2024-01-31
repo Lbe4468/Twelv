@@ -189,21 +189,20 @@ ol {
 
 .card {
     max-width: 300px;
-    margin: 2.5px;
+    margin: 2px;
     background-color: #1e1e33;
 }
 
 .card-title {
-    color: #ffffff;
-    font-size: 20px;
+    color: #3e80ff;
+    font-size: 21px;
     padding-bottom: 20px;
     text-transform: uppercase;
-    text-decoration: underline;
 }
 
 .card-subtitle {
     color: #ffd447;
-    font-size: 24px;
+    font-size: 18px;
 }
 
 .card-subtitle-details {
@@ -1822,12 +1821,12 @@ br {
 }
 
 .navbar-brand {
-    padding-left: 0;
+    padding-left: 7.5px;
     border-radius: 0
 }
 
 .mobile-menu-btn {
-    padding: 0
+    padding: 0;
 }
 
 .mobile-menu-btn:focus {
