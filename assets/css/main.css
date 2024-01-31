@@ -190,13 +190,15 @@ ol {
 .card {
     max-width: 300px;
     margin: 2.5px;
-    background-color: #3e80ff;
+    background-color: #1e1e33;
 }
 
 .card-title {
     color: #ffffff;
-    font-size: 24px;
+    font-size: 20px;
     padding-bottom: 20px;
+    text-transform: uppercase;
+    text-decoration: underline;
 }
 
 .card-subtitle {
@@ -216,7 +218,7 @@ ol {
 }
 
 .card-link {
-    color: #00001f;
+    color: #fefefe;
     font-size: 14px;
     padding: 5px 0px 7.5px 1rem;
 }
