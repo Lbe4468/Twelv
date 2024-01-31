@@ -115,10 +115,6 @@ h6 {
     font-family: spartan, sans-serif
 }
 
-#h3-header {
-    font-size: 32px;
-}
-
 .h3-header {
     font-size: 36px !important;
 }
@@ -2643,6 +2639,7 @@ only screen and (min-width:1400px) {
 
 .feature .feature-box {
     min-height: 200px;
+    max-width: 375px;
     margin-top: 10px;
     border-radius: 20px;
     background-color: #1e1e33;
